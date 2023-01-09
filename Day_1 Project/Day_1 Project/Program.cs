@@ -51,7 +51,7 @@ string friend = "Ben";
 
 if(friend == "family")
 {
-    myname = "Olulana";
+    myname = "Olulana Sotomi";
 }
 
 else if (friend == "Ben")
